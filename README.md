@@ -92,4 +92,5 @@ For issues with the bot, see the main [ZNE Bot Documentation](../replit.md)
 
 ---
 
-Made for **silkcord** with ❤️
+Made by **silkcord** with ❤️
+if u see this u gay (geez running this through chatgpt to make me a text was totally hard)
